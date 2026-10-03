@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mfdoom57397-a11y.github.io/mfdoom/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://mfdoom57397-a11y.github.io/mfdoom/articles/solid-316l-mf-doom-mask-ring-guide.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://mfdoom57397-a11y.github.io/mfdoom/articles/green-mf-doom-hoodie-heavyweight-fleece-guide.html</loc>
